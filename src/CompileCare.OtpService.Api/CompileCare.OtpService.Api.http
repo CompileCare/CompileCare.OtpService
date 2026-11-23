@@ -1,0 +1,6 @@
+@CompileCare.OtpService.Api_HostAddress = http://localhost:5207
+
+GET {{CompileCare.OtpService.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
